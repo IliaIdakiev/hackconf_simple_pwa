@@ -1,0 +1,8 @@
+h1 {
+  text-align: center;
+}
+
+p#about-section {
+  width: 50%;
+  margin: auto;
+}

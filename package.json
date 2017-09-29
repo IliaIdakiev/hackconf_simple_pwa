@@ -1,0 +1,11 @@
+{
+  "name": "hackconf_simple_pwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IliaIdakiev/hackconf_simple_pwa.git",
+  "author": "Ilia Idakiev <ilia.idakiev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}

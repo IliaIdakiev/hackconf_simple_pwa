@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  background-color: lightgray;
+  padding: 0;
+  margin: 0;
+}
+
+
+nav#main-navigation {
+  height: 30px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  background-color: #faac1b;
+}
+
+nav#main-navigation a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  margin-right: 10px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
